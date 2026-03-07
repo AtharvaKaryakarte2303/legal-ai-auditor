@@ -1,5 +1,5 @@
 streamlit
-openai
+google-genai
 pdfplumber
 python-dotenv
 langgraph
